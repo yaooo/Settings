@@ -20,6 +20,11 @@ sudo make install
 # Clean up
 cd .. && rm -r fedy
 
+# Set java path after installing openjdk
+
+
+
+
 # notes for myself
 # change terminal color
-# change hotkey for "lauch terminal", "hide all windows"
+# change hotkey for "lauch terminal", "hide all windows
