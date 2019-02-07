@@ -19,3 +19,7 @@ git clone https://github.com/fedy/fedy.git && cd fedy
 sudo make install
 # Clean up
 cd .. && rm -r fedy
+
+# notes for myself
+# change terminal color
+# change hotkey for "lauch terminal", "hide all windows"
