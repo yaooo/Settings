@@ -2,4 +2,4 @@
 
 Some notes for quick setup on Fedora.
 
-windows git bash: .bash_profile 文件 放到 C:\Users\{用户}\ 下面
+windows git bash: put .bash_profile  .minttyrc under C:\Users\{user}\
